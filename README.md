@@ -15,6 +15,7 @@ Number of Listings per Host: Most hosts have only one listing, but a significant
 
 Visualizations
 
+
 The analysis includes a variety of visualizations to better understand the data, including bar plots, scatter plots, histograms, and a correlation heatmap. Each plot provides different insights into the data.
 
 The Airbnb NYC 2019 dataset provides valuable insights into the short-term rental market in New York City. This exploratory data analysis helps uncover the key factors that influence the price and availability of listings, such as room type and neighbourhood group. The findings can be useful for potential hosts to better understand the market and for guests to make informed decisions about their stay.
