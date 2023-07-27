@@ -1,6 +1,9 @@
 Airbnb NYC 2019 Data Analysis
 
+
 This project provides a comprehensive exploratory data analysis (EDA) of the Airbnb NYC 2019 dataset. The dataset contains information about Airbnb listings in New York City, including details about the listing's location, room type, price, minimum night stay requirements, number of reviews, and availability throughout the year.
+
+
 
 Key Insights
 
@@ -11,6 +14,8 @@ Room Type: "Entire home/apt" is the most common type of listing, followed by "Pr
 Neighbourhood Groups: The data covers five neighbourhood groups: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. Manhattan has the highest average price among all the neighbourhood groups. Most listings are concentrated in Manhattan, Brooklyn, and parts of Queens.
 
 Number of Listings per Host: Most hosts have only one listing, but a significant proportion (about one-third) have multiple listings.
+
+
 
 
 Visualizations
