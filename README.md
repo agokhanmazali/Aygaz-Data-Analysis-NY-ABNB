@@ -1,4 +1,5 @@
 Airbnb NYC 2019 Data Analysis
+
 This project provides a comprehensive exploratory data analysis (EDA) of the Airbnb NYC 2019 dataset. The dataset contains information about Airbnb listings in New York City, including details about the listing's location, room type, price, minimum night stay requirements, number of reviews, and availability throughout the year.
 
 Key Insights
